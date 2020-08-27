@@ -1,0 +1,8 @@
+[user]
+	email = sasanoworkz@gmail.com
+	name = sasano yasuhiro
+[gui]
+	encoding = utf-8
+	recentrepo = C:/Users/yas/work_aws/cf
+[core]
+	autoCRLF = false
