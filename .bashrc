@@ -1,4 +1,7 @@
 alias python="winpty python"
 alias jq="jq-win64"
+alias la="ls -al"
 alias gs="git status"
 alias gl="git log"
+alias commit="git commit"
+alias push="git push"
