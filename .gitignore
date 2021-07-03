@@ -1,1 +1,6 @@
 */
+.bash_*
+ntuser.*
+.viminfo
+.minttyrc
+.node*
