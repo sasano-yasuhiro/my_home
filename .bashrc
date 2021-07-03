@@ -1,5 +1,5 @@
 alias python="winpty python"
-alias jq="jq-win64"
+alias jq="winpty jq-win64"
 alias la="ls -al"
 alias gs="git status"
 alias gl="git log"
