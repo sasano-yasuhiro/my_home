@@ -6,3 +6,5 @@
 	recentrepo = C:/Users/yas/work_aws/cf
 [core]
 	autoCRLF = false
+[credential]
+	helper = cache
